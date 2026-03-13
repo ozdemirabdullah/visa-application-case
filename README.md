@@ -16,7 +16,7 @@ A CRM-style visa application detail page built with React, TypeScript, Vite, Tai
 ```bash
 # 1. Clone the repository
 git clone <repo-url>
-cd casestudy
+cd visa-application-case
 
 # 2. Install dependencies
 npm install
