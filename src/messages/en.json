@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "back": "Back",
+    "applications": "Applications",
+    "searchPlaceholder": "Search applications or travelers...",
+    "requestDocuments": "Request Documents",
+    "moveToNextStage": "Move to Next Stage"
+  },
+  "stages": {
+    "currentStageLabel": "CURRENT STAGE",
+    "finalStageTooltip": "Application has reached the final stage"
+  },
+  "sidebar": {
+    "appointmentDate": "APPOINTMENT DATE",
+    "countdownDays": "days",
+    "countdownHours": "hours",
+    "countdownMin": "min",
+    "labelId": "ID",
+    "labelPassport": "PASSPORT",
+    "labelApplicationType": "APPLICATION TYPE",
+    "labelContact": "CONTACT",
+    "viewFullProfile": "View Full Page Profile",
+    "relatedApplications": "RELATED APPLICATIONS"
+  },
+  "documents": {
+    "title": "Document Management",
+    "subtitle": "Review and manage application documents.",
+    "statusUploaded": "Uploaded",
+    "statusMissing": "Missing",
+    "statusRevisionRequested": "Revision Requested",
+    "actionViewDoc": "View Doc",
+    "actionUpload": "Upload",
+    "actionViewNote": "View Note",
+    "uploadedOn": "Uploaded: {{date}}",
+    "notUploadedYet": "Not uploaded yet",
+    "loadingError": "Failed to load documents. Please try again.",
+    "retry": "Retry",
+    "revisionNoteTitle": "Revision Note — {{name}}",
+    "revisionNoteClose": "Close"
+  },
+  "notes": {
+    "title": "Internal Notes",
+    "subtitle": "Staff only — not visible to traveller",
+    "placeholder": "Add a note...",
+    "addNoteTitle": "Add note",
+    "authorYou": "You"
+  },
+  "communications": {
+    "title": "Communication Log",
+    "subtitle": "Automated message to traveller",
+    "emailSent": "Email Sent",
+    "smsSent": "SMS Sent"
+  },
+  "moveStageModal": {
+    "title": "Move to Next Stage",
+    "question": "Are you sure you want to move this application from {{current}} to {{next}}?",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "toast": {
+    "movedToStage": "Moved to {{stage}}"
+  },
+  "status": {
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "pending": "Pending"
+  }
+}
